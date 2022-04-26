@@ -3,9 +3,9 @@ body{
     padding: 0;
 }
 .background-image{
-    background-image: url(../img/beckground.jpg);
+    background-image: url(../img/pexels-photo-164024.jpeg);
     height: 41.7rem;
-    width: auto;
+    width: 100vw;
     background-repeat: no-repeat;
 }
 .form-control:focus{
